@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0D7AAB83-D81D-4A7E-9000-7EB44FBFBC7D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SPInteractiveDismissTransitionExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A26FA6C3CD84E40A657B9E98F2203D68C8E921F2</key>
+		<string>https://github.com/sergiou87/SPInteractivePopNavigationController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/SPInteractiveDismissTransitionExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A26FA6C3CD84E40A657B9E98F2203D68C8E921F2</key>
+		<string>../../../../SPInteractiveDismissTransition</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sergiou87/SPInteractivePopNavigationController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A26FA6C3CD84E40A657B9E98F2203D68C8E921F2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A26FA6C3CD84E40A657B9E98F2203D68C8E921F2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SPInteractiveDismissTransition</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A26FA6C3CD84E40A657B9E98F2203D68C8E921F2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SPInteractivePopNavigationController</string>
+		</dict>
+	</array>
+</dict>
+</plist>
